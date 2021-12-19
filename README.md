@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mothupi43
 - 👀 I’m interested in website development
 - 🌱 I’m currently learning how to code
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
 <!---
